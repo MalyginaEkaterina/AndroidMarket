@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyMarket</string>
+    <string name="title_home">Главная</string>
+    <string name="title_basket">Корзина</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_orders">Заказы</string>
+    <string name="login_hint">Логин</string>
+    <string name="pass_hint">Пароль</string>
+    <string name="login_btn">Войти</string>
+    <string name="empty_login_pass">Введите логин и пароль</string>
+    <string name="text_registr">Зарегистрироваться</string>
+    <string name="reg_login_hint">Логин</string>
+    <string name="reg_pass_hint">Пароль</string>
+    <string name="reg_fio_hint">ФИО</string>
+    <string name="reg_phone_hint">Номер телефона</string>
+    <string name="reg_email_hint">e-mail</string>
+    <string name="reg_btn_text">Зарегистрироваться</string>
+    <string name="reg_success">Регистрация прошла успешно</string>
+    <string name="reg_not_success">Регистрация не завершена. Попробуйте позднее.</string>
+    <string name="text_log_out">Выйти из аккаунта</string>
+    <string name="toast_log_out">Выполняется выход</string>
+    <string name="text_view_my_orders">Мои заказы</string>
+    <string name="text_view_change_phone">Изменить телефон</string>
+    <string name="text_view_change_email">Изменить email</string>
+</resources>
